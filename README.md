@@ -1,4 +1,4 @@
-# auth login and register codeigniter, menu, submenu with Mysql
+# Auth Login and Register Codeigniter, Menu, Submenu with MYSQL
 
 Features
 1. Auth Login
@@ -11,3 +11,4 @@ Features
 8. Forget Password
 9. Form validation email, password not match, email already registered
 10. Template sbadmin2
+11. Using Query builder codeigniter (connected|get|join table mysql)
